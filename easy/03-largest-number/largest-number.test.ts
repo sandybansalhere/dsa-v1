@@ -12,6 +12,6 @@ test("should return 30 for arr2", () => {
   expect(largestNumber(arr2)).toBe(30);
 });
 
-test("should return 30 for arr3", () => {
+test("should return 8 for arr3", () => {
   expect(largestNumber(arr3)).toBe(8);
 });
