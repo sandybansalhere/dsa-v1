@@ -12,6 +12,6 @@ test("should return 1", () => {
   expect(negativeNumberCount(arr2)).toBe(1);
 });
 
-test("should return 9", () => {
+test("should return 0", () => {
   expect(negativeNumberCount(arr3)).toBe(0);
 });
